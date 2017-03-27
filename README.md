@@ -1,6 +1,9 @@
 # awesome-documentaries
 A list of awesome documentaries
 
+## Mixed
+- RI Christmas Lectures [http://richannel.org/christmas-lectures]()
+
 ## Religion
 - The God Delusion [https://www.youtube.com/watch?v=9FiHRVb_uE0]() 1h33m
 
